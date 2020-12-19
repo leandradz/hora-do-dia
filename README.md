@@ -1,3 +1,15 @@
-# hora-do-dia
-Estrutura criada através do Curso Em Vídeo, utilizando conceitos básicos de HTML, CSS e JAVASCRIPT.
-A idéia proposta é um site onde considera a hora atual e altera a cor e imagem de acordo comm o período do dia, sendo eles: Manhã, Tarde e Noite.
+# Projeto Hora do Dia
+
+O projeto foi criado através do Curso Em Vídeo, utilizando: 
+
+- HTML
+- CSS
+- JAVASCRIPT.
+
+A idéia proposta é um site onde a partir da hora atual, altera a cor do background e a imagem de acordo com o período do dia, sendo eles: 
+
+- Manhã
+- Tarde
+- Noite
+
+[Clique aqui e veja a Hora Atual!!](https://hora-do-dia.leandradz.repl.co/)
